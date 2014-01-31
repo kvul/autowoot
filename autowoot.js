@@ -52,3 +52,4 @@ bpl = {
 if(typeof bpl !== "undefined") bpl.close();
 
 BassPlugLite();
+
